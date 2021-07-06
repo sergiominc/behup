@@ -1,0 +1,76 @@
+SET DATABASE UNIQUE NAME HSQLDB7A79C6C46D
+SET DATABASE GC 0
+SET DATABASE DEFAULT RESULT MEMORY ROWS 0
+SET DATABASE EVENT LOG LEVEL 0
+SET DATABASE TRANSACTION CONTROL LOCKS
+SET DATABASE DEFAULT ISOLATION LEVEL READ COMMITTED
+SET DATABASE TRANSACTION ROLLBACK ON CONFLICT TRUE
+SET DATABASE TEXT TABLE DEFAULTS ''
+SET DATABASE SQL NAMES FALSE
+SET DATABASE SQL REFERENCES FALSE
+SET DATABASE SQL SIZE TRUE
+SET DATABASE SQL TYPES FALSE
+SET DATABASE SQL TDC DELETE TRUE
+SET DATABASE SQL TDC UPDATE TRUE
+SET DATABASE SQL CONCAT NULLS TRUE
+SET DATABASE SQL UNIQUE NULLS TRUE
+SET DATABASE SQL CONVERT TRUNCATE TRUE
+SET DATABASE SQL AVG SCALE 0
+SET DATABASE SQL DOUBLE NAN TRUE
+SET FILES WRITE DELAY 500 MILLIS
+SET FILES BACKUP INCREMENT TRUE
+SET FILES CACHE SIZE 10000
+SET FILES CACHE ROWS 50000
+SET FILES SCALE 32
+SET FILES LOB SCALE 32
+SET FILES DEFRAG 0
+SET FILES NIO TRUE
+SET FILES NIO SIZE 256
+SET FILES LOG TRUE
+SET FILES LOG SIZE 50
+CREATE USER SA PASSWORD DIGEST 'd41d8cd98f00b204e9800998ecf8427e'
+ALTER USER SA SET LOCAL TRUE
+CREATE SCHEMA PUBLIC AUTHORIZATION DBA
+SET SCHEMA PUBLIC
+CREATE MEMORY TABLE PUBLIC.ITEM(ID INTEGER NOT NULL PRIMARY KEY,NOME VARCHAR(255),STATUS BOOLEAN,TEXTO VARCHAR(255))
+CREATE MEMORY TABLE PUBLIC.TWEET(ID INTEGER NOT NULL PRIMARY KEY,NOME VARCHAR(255),STATUS BOOLEAN,TEXTO VARCHAR(255))
+ALTER SEQUENCE SYSTEM_LOBS.LOB_ID RESTART WITH 1
+SET DATABASE DEFAULT INITIAL SCHEMA PUBLIC
+GRANT USAGE ON DOMAIN INFORMATION_SCHEMA.SQL_IDENTIFIER TO PUBLIC
+GRANT USAGE ON DOMAIN INFORMATION_SCHEMA.YES_OR_NO TO PUBLIC
+GRANT USAGE ON DOMAIN INFORMATION_SCHEMA.TIME_STAMP TO PUBLIC
+GRANT USAGE ON DOMAIN INFORMATION_SCHEMA.CARDINAL_NUMBER TO PUBLIC
+GRANT USAGE ON DOMAIN INFORMATION_SCHEMA.CHARACTER_DATA TO PUBLIC
+GRANT DBA TO SA
+SET SCHEMA SYSTEM_LOBS
+INSERT INTO BLOCKS VALUES(0,2147483647,0)
+SET SCHEMA PUBLIC
+INSERT INTO ITEM VALUES(16,'Renato fran\u00e7a',TRUE,NULL)
+INSERT INTO ITEM VALUES(19,'qwqwqwq',FALSE,NULL)
+INSERT INTO ITEM VALUES(20,'sergiominc',FALSE,NULL)
+INSERT INTO ITEM VALUES(21,'bill gates',FALSE,NULL)
+INSERT INTO TWEET VALUES(3,'@SenFetterman - @TheJordanRachel Bill Gates'' microchip lets the government know where to find you',FALSE,NULL)
+INSERT INTO TWEET VALUES(4,'@Madhusree1984 - The Gates Foundation''s relentless focus on industrial agriculture is drowning the voices of African food producers. https://t.co/z2mYLE7dpd via @sciam',FALSE,NULL)
+INSERT INTO TWEET VALUES(5,'@LeblebiKirik - RT @Semamarasli: #TSKAnayasalSu\u00e7\u0130\u015fliyor Eger askerleri a\u015f\u0131 i\u00e7in zorluyorlarsa.\u000aA\u015f\u0131 olduktan sonra \u00f6lenler var endi\u015feleniyoruz. Her ne kadar\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(6,'@Picad111 - #WarrenBuffetisEvil\u000ahttps://t.co/dK46e3UPiQ',FALSE,NULL)
+INSERT INTO TWEET VALUES(7,'@H25Yilmaz - RT @yazarmuratakan: Hani Bill Gates\u2019in \u00c7ip ile ilgisi yoktu?\u000aBak\u0131n N\u00fcfus planlamas\u0131 i\u00e7in nas\u0131l bir \u00c7ip \u00fcretmi\u015f...\ud83d\udc47\u000ahttps://t.co/4gXuL3nQeR\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(8,'@hannischka - @HerrNewstime Ruf Bill Gates an und sag sch\u00f6n Gr\u00fc\u00dfe',FALSE,NULL)
+INSERT INTO TWEET VALUES(9,'@Huseyin57591 - RT @yazarmuratakan: Hani Bill Gates\u2019in \u00c7ip ile ilgisi yoktu?\u000aBak\u0131n N\u00fcfus planlamas\u0131 i\u00e7in nas\u0131l bir \u00c7ip \u00fcretmi\u015f...\ud83d\udc47\u000ahttps://t.co/4gXuL3nQeR\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(10,'@f_twhiterabbit - RT @yazarmuratakan: Hani Bill Gates\u2019in \u00c7ip ile ilgisi yoktu?\u000aBak\u0131n N\u00fcfus planlamas\u0131 i\u00e7in nas\u0131l bir \u00c7ip \u00fcretmi\u015f...\ud83d\udc47\u000ahttps://t.co/4gXuL3nQeR\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(11,'@kattaB4 - RT @birgerrhenman: Bill Gates har k\u00f6pt p\u00e5 sig s\u00e5 mycket land att det syns fr\u00e5n rymden. https://t.co/5G3axsAFFW',FALSE,NULL)
+INSERT INTO TWEET VALUES(12,'@ChapmanCNSNews - RT @FrDaveNix: Bill Gates admitted he has a big carbon footprint, but he''s pledged to offset that by killing a bunch of people.  So I guess\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(13,'@Safiye53 - RT @Semamarasli: #TSKAnayasalSu\u00e7\u0130\u015fliyor Eger askerleri a\u015f\u0131 i\u00e7in zorluyorlarsa.\u000aA\u015f\u0131 olduktan sonra \u00f6lenler var endi\u015feleniyoruz. Her ne kadar\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(23,'@FightReload - @kaaaieconfiance @madcom29322160 Ils sont corrompus, tenus par le parti communiste chinois, Bill Gates et autres \u00e9lites mondialistes.',FALSE,NULL)
+INSERT INTO TWEET VALUES(24,'@rothfarms - RT @FrDaveNix: Bill Gates admitted he has a big carbon footprint, but he''s pledged to offset that by killing a bunch of people.  So I guess\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(25,'@au_krypto - @ridgeisback Can you believe Dr Hillary is on Bill Gates payroll!!!!',FALSE,NULL)
+INSERT INTO TWEET VALUES(26,'@PHvide - RT @birgerrhenman: Bill Gates har k\u00f6pt p\u00e5 sig s\u00e5 mycket land att det syns fr\u00e5n rymden. https://t.co/5G3axsAFFW',FALSE,NULL)
+INSERT INTO TWEET VALUES(27,'@jannetjejo - If Bill Gates was a mechanic. Sound Familiar? https://t.co/JeeJn063hk via @YouTube',FALSE,NULL)
+INSERT INTO TWEET VALUES(28,'@Darkstuff99 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(29,'@MynardPamela - RT @timetowakeupsw1: If Bill Gates was a mechanic https://t.co/FHlpHqaJ50',FALSE,NULL)
+INSERT INTO TWEET VALUES(30,'@17AmericanTruth - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(31,'@merve87740293 - RT @Semamarasli: #TSKAnayasalSu\u00e7\u0130\u015fliyor Eger askerleri a\u015f\u0131 i\u00e7in zorluyorlarsa.\u000aA\u015f\u0131 olduktan sonra \u00f6lenler var endi\u015feleniyoruz. Her ne kadar\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(32,'@Lacey40094079 - Media and tech moguls descend on Sun Valley in private jets for exclusive ''billionaire summer camp'' with Bill Gates and Jeff Bezos set to attend\u000a\u000ahttps://t.co/x7DhLF0zCK',FALSE,NULL)
+INSERT INTO TWEET VALUES(33,'@AtlantaLiberal - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(34,'@WrestlingVip - RT @davisuniversal: Bill Gates factory soylent green https://t.co/o1IDLqRNzC',FALSE,NULL)
+INSERT INTO TWEET VALUES(35,'@MilenaMichaylov - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+INSERT INTO TWEET VALUES(36,'@kay__marie33 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)

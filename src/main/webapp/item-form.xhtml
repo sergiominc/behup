@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+
+
+<ui:composition template="layout.xhtml">
+	
+	<ui:define name="content">
+		<link rel="stylesheet" type="text/css" href="resources/behup.css" />		
+
+		<h:form id="itemForm">
+			<div class="mx-auto" style="width: 505px;">
+				<h:panelGrid columns="2" layout="grid"	styleClass="ui-panelgrid-blank ui-fluid">
+					<p:inputText id="name" value="#{itemController.item.nome}"	style="width:100%" size="40">
+						<f:passThroughAttribute name="placeholder" 	value="digite sua busca ..." />
+					</p:inputText>
+					<p:commandButton styleclass="btn btn-primary btn-lg" value="go ..." action="#{itemController.save}"
+						update="itemForm" />
+				</h:panelGrid>
+
+				<br />
+
+				<p:growl id="msgs" showDetail="true" />
+
+				<p:dataTable id="table" var="item" editable="true" editMode="cell"
+					rendered="#{not empty itemController.itemsList}" reflow="true"
+					value="#{itemController.itemsList}" styleClass="table">
+
+					<p:ajax event="cellEdit" listener="#{itemController.onCellEdit}"
+						update=":itemForm:msgs" />
+
+					<p:column style="width:50px">
+						<p:commandLink action="#{itemController.changeStatusItem(item)}"
+							update="itemForm">
+							<h:panelGroup rendered="#{item.status eq false}">
+								<img src="resources/asserts/icon-uncheck.png"
+									onmouseover="this.src='resources/asserts/icon-check.png'"
+									onmouseout="this.src='resources/asserts/icon-uncheck.png'" />
+							</h:panelGroup>
+							<h:panelGroup rendered="#{item.status eq true}">
+								<img src="resources/asserts/icon-check.png" />
+							</h:panelGroup>
+						</p:commandLink>
+					</p:column>
+
+					<p:column style="text-align: left;">
+						<p:cellEditor>
+							<f:facet name="output">
+								<h:outputText value="#{item.nome}" />
+							</f:facet>
+							<f:facet name="input">
+								<p:inputText id="nome" value="#{item.nome}" style="width:100%"
+									label="Nome" />
+							</f:facet>
+						</p:cellEditor>
+					</p:column>
+
+					<p:column style="width:50px">
+						<p:commandLink action="#{itemController.deleteItem(item)}"
+							update="itemForm">
+							<img src="resources/asserts/trash_grey.png"
+								onmouseover="this.src='resources/asserts/trash_red.png'"
+								onmouseout="this.src='resources/asserts/trash_grey.png'" />
+						</p:commandLink>
+					</p:column>
+
+					
+
+				</p:dataTable>
+
+				
+			</div>
+		</h:form>
+	</ui:define>
+
+	<script>
+		function display(img) {
+			img.;
+		}
+	</script>
+</ui:composition>
+
+</html>

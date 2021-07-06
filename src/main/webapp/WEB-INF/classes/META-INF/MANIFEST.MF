@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: todo-new
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: dataprev
+Implementation-Vendor-Id: io.behup
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/todo-new
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,207 @@
+/*C3*/SET SCHEMA PUBLIC
+DELETE FROM TWEET WHERE ID=3
+INSERT INTO TWEET VALUES(3,'@SenFetterman - @TheJordanRachel Bill Gates'' microchip lets the government know where to find you',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=4
+INSERT INTO TWEET VALUES(4,'@Madhusree1984 - The Gates Foundation''s relentless focus on industrial agriculture is drowning the voices of African food producers. https://t.co/z2mYLE7dpd via @sciam',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=5
+INSERT INTO TWEET VALUES(5,'@LeblebiKirik - RT @Semamarasli: #TSKAnayasalSu\u00e7\u0130\u015fliyor Eger askerleri a\u015f\u0131 i\u00e7in zorluyorlarsa.\u000aA\u015f\u0131 olduktan sonra \u00f6lenler var endi\u015feleniyoruz. Her ne kadar\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=6
+INSERT INTO TWEET VALUES(6,'@Picad111 - #WarrenBuffetisEvil\u000ahttps://t.co/dK46e3UPiQ',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=7
+INSERT INTO TWEET VALUES(7,'@H25Yilmaz - RT @yazarmuratakan: Hani Bill Gates\u2019in \u00c7ip ile ilgisi yoktu?\u000aBak\u0131n N\u00fcfus planlamas\u0131 i\u00e7in nas\u0131l bir \u00c7ip \u00fcretmi\u015f...\ud83d\udc47\u000ahttps://t.co/4gXuL3nQeR\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=8
+INSERT INTO TWEET VALUES(8,'@hannischka - @HerrNewstime Ruf Bill Gates an und sag sch\u00f6n Gr\u00fc\u00dfe',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=11
+INSERT INTO TWEET VALUES(11,'@kattaB4 - RT @birgerrhenman: Bill Gates har k\u00f6pt p\u00e5 sig s\u00e5 mycket land att det syns fr\u00e5n rymden. https://t.co/5G3axsAFFW',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=10
+INSERT INTO TWEET VALUES(10,'@f_twhiterabbit - RT @yazarmuratakan: Hani Bill Gates\u2019in \u00c7ip ile ilgisi yoktu?\u000aBak\u0131n N\u00fcfus planlamas\u0131 i\u00e7in nas\u0131l bir \u00c7ip \u00fcretmi\u015f...\ud83d\udc47\u000ahttps://t.co/4gXuL3nQeR\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=9
+INSERT INTO TWEET VALUES(9,'@Huseyin57591 - RT @yazarmuratakan: Hani Bill Gates\u2019in \u00c7ip ile ilgisi yoktu?\u000aBak\u0131n N\u00fcfus planlamas\u0131 i\u00e7in nas\u0131l bir \u00c7ip \u00fcretmi\u015f...\ud83d\udc47\u000ahttps://t.co/4gXuL3nQeR\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=12
+INSERT INTO TWEET VALUES(12,'@ChapmanCNSNews - RT @FrDaveNix: Bill Gates admitted he has a big carbon footprint, but he''s pledged to offset that by killing a bunch of people.  So I guess\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=13
+INSERT INTO TWEET VALUES(13,'@Safiye53 - RT @Semamarasli: #TSKAnayasalSu\u00e7\u0130\u015fliyor Eger askerleri a\u015f\u0131 i\u00e7in zorluyorlarsa.\u000aA\u015f\u0131 olduktan sonra \u00f6lenler var endi\u015feleniyoruz. Her ne kadar\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=23
+INSERT INTO TWEET VALUES(23,'@FightReload - @kaaaieconfiance @madcom29322160 Ils sont corrompus, tenus par le parti communiste chinois, Bill Gates et autres \u00e9lites mondialistes.',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=24
+INSERT INTO TWEET VALUES(24,'@rothfarms - RT @FrDaveNix: Bill Gates admitted he has a big carbon footprint, but he''s pledged to offset that by killing a bunch of people.  So I guess\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=25
+INSERT INTO TWEET VALUES(25,'@au_krypto - @ridgeisback Can you believe Dr Hillary is on Bill Gates payroll!!!!',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=26
+INSERT INTO TWEET VALUES(26,'@PHvide - RT @birgerrhenman: Bill Gates har k\u00f6pt p\u00e5 sig s\u00e5 mycket land att det syns fr\u00e5n rymden. https://t.co/5G3axsAFFW',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=27
+INSERT INTO TWEET VALUES(27,'@jannetjejo - If Bill Gates was a mechanic. Sound Familiar? https://t.co/JeeJn063hk via @YouTube',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=28
+INSERT INTO TWEET VALUES(28,'@Darkstuff99 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=29
+INSERT INTO TWEET VALUES(29,'@MynardPamela - RT @timetowakeupsw1: If Bill Gates was a mechanic https://t.co/FHlpHqaJ50',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=30
+INSERT INTO TWEET VALUES(30,'@17AmericanTruth - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=31
+INSERT INTO TWEET VALUES(31,'@merve87740293 - RT @Semamarasli: #TSKAnayasalSu\u00e7\u0130\u015fliyor Eger askerleri a\u015f\u0131 i\u00e7in zorluyorlarsa.\u000aA\u015f\u0131 olduktan sonra \u00f6lenler var endi\u015feleniyoruz. Her ne kadar\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=32
+INSERT INTO TWEET VALUES(32,'@Lacey40094079 - Media and tech moguls descend on Sun Valley in private jets for exclusive ''billionaire summer camp'' with Bill Gates and Jeff Bezos set to attend\u000a\u000ahttps://t.co/x7DhLF0zCK',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=33
+INSERT INTO TWEET VALUES(33,'@AtlantaLiberal - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=34
+INSERT INTO TWEET VALUES(34,'@WrestlingVip - RT @davisuniversal: Bill Gates factory soylent green https://t.co/o1IDLqRNzC',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=35
+INSERT INTO TWEET VALUES(35,'@MilenaMichaylov - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=36
+INSERT INTO TWEET VALUES(36,'@kay__marie33 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',TRUE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=36
+COMMIT
+DELETE FROM TWEET WHERE ID=34
+COMMIT
+DELETE FROM TWEET WHERE ID=32
+COMMIT
+DELETE FROM TWEET WHERE ID=30
+COMMIT
+DELETE FROM TWEET WHERE ID=31
+COMMIT
+DELETE FROM TWEET WHERE ID=29
+COMMIT
+DELETE FROM TWEET WHERE ID=33
+COMMIT
+DELETE FROM TWEET WHERE ID=26
+COMMIT
+DELETE FROM TWEET WHERE ID=24
+COMMIT
+DELETE FROM TWEET WHERE ID=23
+COMMIT
+DELETE FROM TWEET WHERE ID=13
+COMMIT
+DELETE FROM TWEET WHERE ID=12
+COMMIT
+DELETE FROM TWEET WHERE ID=11
+COMMIT
+DELETE FROM TWEET WHERE ID=10
+COMMIT
+DELETE FROM TWEET WHERE ID=9
+COMMIT
+DELETE FROM TWEET WHERE ID=7
+COMMIT
+DELETE FROM TWEET WHERE ID=6
+COMMIT
+DELETE FROM TWEET WHERE ID=8
+COMMIT
+DELETE FROM TWEET WHERE ID=25
+COMMIT
+DELETE FROM TWEET WHERE ID=27
+COMMIT
+DELETE FROM TWEET WHERE ID=28
+COMMIT
+DELETE FROM TWEET WHERE ID=35
+COMMIT
+DELETE FROM TWEET WHERE ID=5
+COMMIT
+DELETE FROM TWEET WHERE ID=4
+COMMIT
+DELETE FROM TWEET WHERE ID=3
+COMMIT
+INSERT INTO TWEET VALUES(2,'@Gods_Gift26 - RT @SaycheeseDGTL: Steve Jobs emailed Bill Gates in 1998 because Bill Gates was throwing shade at his company.. \u201cYou don\u2019t hear Apple trash\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(3,'@sublime_chickie - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(4,'@Teri92345368 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(5,'@bfg1969 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(6,'@HeidiLenell - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(7,'@BlmFacesof - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(8,'@kathy84378200 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(9,'@RealBasedMAGA - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(10,'@jenn034612 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(12,'@ramonfonsecamor - https://t.co/mNmgnFyQMs',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(13,'@heidiEC5 - RT @disclosetv: NEW - Media and tech moguls descend on Sun Valley in fancy private jets for exclusive "billionaire summer camp" to stick th\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(14,'@imagine_garden - RT @amitrana_9: The countries that build great zero-carbon companies and industries will be the ones that lead the global economy in the co\u2026',FALSE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=2
+COMMIT
+DELETE FROM TWEET WHERE ID=3
+COMMIT
+DELETE FROM TWEET WHERE ID=4
+COMMIT
+DELETE FROM TWEET WHERE ID=5
+COMMIT
+DELETE FROM TWEET WHERE ID=6
+COMMIT
+DELETE FROM TWEET WHERE ID=7
+COMMIT
+DELETE FROM TWEET WHERE ID=8
+COMMIT
+DELETE FROM TWEET WHERE ID=9
+COMMIT
+DELETE FROM TWEET WHERE ID=10
+COMMIT
+DELETE FROM TWEET WHERE ID=12
+COMMIT
+DELETE FROM TWEET WHERE ID=13
+COMMIT
+DELETE FROM TWEET WHERE ID=14
+COMMIT
+INSERT INTO TWEET VALUES(16,'@FerrazLiete - RT @DeboraJacobino: @rodrigogarcia_ Jo\u00e3o Doria e Carl\u00e3o Pignatari desistam porque vcs n\u00e3o ser\u00e3o eleitos pra nada! Os aposentados se encarre\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(17,'@prof_expeditojr - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(18,'@_pedroborges_ - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(19,'@FerrazLiete - RT @AnaAlic18810883: @jdoriajr Aten\u00e7\u00e3o e respeito aos idosos Sr. Gov. Jo\u00e3o D\u00f3ria? Como pode?  O povo precisa saber que @jdoriajr est\u00e1 CONFI\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(20,'@paisceara - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(21,'@OsmarAquinoOb - RT @Valdecirdelecl1: Ou Jo\u00e3o D\u00f3ria se assume gay tb ou vai perder as pr\u00e9vias do PSDB para o gay assumido do RS \u000a\u000aOu o bicho pega ou o bicho\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(22,'@jsnrambo - RT @PriALopes_: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o candidatos - Pesquisa encomendada pelo PVMI (Partido Vozes da Minha Imagina\u00e7\u00e3o) divulgada na tl da Pri Lopes d\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(23,'@ariadnesabrinac - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(24,'@EdcarOliveira - @CNNBrBusiness Esquenta n\u00e3o, Jo\u00e3o Doria vai pagar 6 parcelas de 300, 00 para quem teve parente morto na Pamdemia, ainda tem o vale g\u00e1s de 100, 00 a cada 2 meses, trabalhar \u00e9 coisa do passado.',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(25,'@cruzricardo18 - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(26,'@SilviaR60638559 - RT @Dagmar85988937: @rodrigogarcia_ Como pode compactuar com essa injusti\u00e7a? Ao se eleger, disse que serviria o povo, ajudaria os injusti\u00e7a\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(27,'@anapaulabrendol - RT @andreporci: O secret\u00e1rio de cultura de Jo\u00e3o D\u00f3ria deve estar criticando o pr\u00f3prio chefe, n\u00e3o \u00e9 poss\u00edvel! Ainda deve restar algum tipo d\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(28,'@789Schumacher - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(29,'@Will19883 - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+INSERT INTO TWEET VALUES(30,'@MillerMercadan1 - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\u000a\u000a\ud83d\udfe4Bolsonaro -59%\u000a\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
+DELETE FROM TWEET WHERE ID=29
+INSERT INTO TWEET VALUES(29,'@Will19883 - RT @CentralEleicoes: \ud83d\udea8\ud83d\udcca\ud83d\ude20 Rejei\u00e7\u00e3o dos candidatos - Pesquisa Ipsos encomendada pelo DEM e divulgada pela Revista Veja:\ud83d\udfe4Bolsonaro -59%\ud83d\udd35Jo\u00e3\u2026',FALSE,NULL)
+COMMIT
